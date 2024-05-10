@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449757982825",
+    "project_id": "vivid-5ive12elve",
+    "storage_bucket": "vivid-5ive12elve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449757982825:android:60cda12d8943d8ee66f2f8",
+        "android_client_info": {
+          "package_name": "com.fivetwelve.vivid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbY8jJ-Mm5ypG3qdEvWZZOI2QcN2ZOFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
